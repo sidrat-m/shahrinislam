@@ -3,7 +3,7 @@ import "../globals.css";
 import { LanguageProvider } from "@/store/LanguageContext";
 
 export const metadata: Metadata = {
-  title: "Form | Hummam Quader Chowdhury",
+  title: "Form | Shahrin Islam Tuhin",
   description: "Fill the form to register for the IEB Election.",
 };
 

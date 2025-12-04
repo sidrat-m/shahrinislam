@@ -1,8 +1,8 @@
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "About | Hummam Quader Chowdhury",
-  description: "Learn about Hummam Quader Chowdhury, his background, and his vision for Rangunia.",
+  title: "About | Shahrin Islam Tuhin",
+  description: "Learn about Shahrin Islam Tuhin, his background, and his vision for Nilphamari.",
 }
 
 export default function AboutLayout({

@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Home | Hummam Quader Chowdhury",
-  description: "Official website of Hummam Quader Chowdhury, candidate for Chattogram-7, Rangunia.",
+  title: "Home | Shahrin Islam Tuhin",
+  description: "Official website of Shahrin Islam Tuhin, candidate for Nilphamari-1.",
 }
 
 export default function RootLayout({
